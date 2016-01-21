@@ -1,1 +1,1 @@
-# js-paginator
+js-paginator

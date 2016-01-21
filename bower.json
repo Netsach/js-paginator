@@ -1,0 +1,20 @@
+{
+  "name": "paginator",
+  "authors": [
+    "jli <gclijing@gmail.com>"
+  ],
+  "description": "Permet de définir le nombre d'élément que l'on souhaite par page et de naviguer entre celle-ci.",
+  "main": "",
+  "moduleType": [
+    "amd"
+  ],
+  "license": "GPLv3",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ],
+  "dependencies": {
+  }
+}
